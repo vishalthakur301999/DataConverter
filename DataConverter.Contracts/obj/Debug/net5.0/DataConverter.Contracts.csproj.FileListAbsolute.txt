@@ -1,0 +1,12 @@
+/Users/vishalthakur/Projects/NetCoreProjects/UnitTestCheck/DataConverter.Contracts/bin/Debug/net5.0/DataConverter.Contracts.deps.json
+/Users/vishalthakur/Projects/NetCoreProjects/UnitTestCheck/DataConverter.Contracts/bin/Debug/net5.0/DataConverter.Contracts.dll
+/Users/vishalthakur/Projects/NetCoreProjects/UnitTestCheck/DataConverter.Contracts/bin/Debug/net5.0/ref/DataConverter.Contracts.dll
+/Users/vishalthakur/Projects/NetCoreProjects/UnitTestCheck/DataConverter.Contracts/bin/Debug/net5.0/DataConverter.Contracts.pdb
+/Users/vishalthakur/Projects/NetCoreProjects/UnitTestCheck/DataConverter.Contracts/obj/Debug/net5.0/DataConverter.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vishalthakur/Projects/NetCoreProjects/UnitTestCheck/DataConverter.Contracts/obj/Debug/net5.0/DataConverter.Contracts.AssemblyInfoInputs.cache
+/Users/vishalthakur/Projects/NetCoreProjects/UnitTestCheck/DataConverter.Contracts/obj/Debug/net5.0/DataConverter.Contracts.AssemblyInfo.cs
+/Users/vishalthakur/Projects/NetCoreProjects/UnitTestCheck/DataConverter.Contracts/obj/Debug/net5.0/DataConverter.Contracts.csproj.CoreCompileInputs.cache
+/Users/vishalthakur/Projects/NetCoreProjects/UnitTestCheck/DataConverter.Contracts/obj/Debug/net5.0/DataConverter.Contracts.dll
+/Users/vishalthakur/Projects/NetCoreProjects/UnitTestCheck/DataConverter.Contracts/obj/Debug/net5.0/ref/DataConverter.Contracts.dll
+/Users/vishalthakur/Projects/NetCoreProjects/UnitTestCheck/DataConverter.Contracts/obj/Debug/net5.0/DataConverter.Contracts.pdb
+/Users/vishalthakur/Projects/NetCoreProjects/UnitTestCheck/DataConverter.Contracts/obj/Debug/net5.0/DataConverter.Contracts.csprojAssemblyReference.cache

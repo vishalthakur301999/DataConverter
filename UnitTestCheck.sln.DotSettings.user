@@ -1,0 +1,10 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/Highlighting/HighlightingSourceSnapshotLocation/@EntryValue">/Users/vishalthakur/Library/Caches/JetBrains/Rider2021.1/resharper-host/temp/Rider/vAny/CoverageData/_UnitTestCheck.-1511891284/Snapshot/snapshot.utdcvr</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=3cebcc7f_002D2975_002D4712_002D8e3d_002D3c5c6ff4efba/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="All tests from Solution" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;Solution /&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=886260b9_002D76ee_002D4e15_002D8a85_002D8e6c35f20dd6/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="PopulateFlight_ShouldWork" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;xUnit::E69CAB1B-8CE9-40FB-A5A4-3B813724565E::net5.0::DataConverter.UnitTests.Services.DataConverterServicesTests.PopulateFlight_ShouldWork&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>

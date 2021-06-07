@@ -1,0 +1,536 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/vishalthakur/Projects/NetCoreProjects/UnitTestCheck/DataConverter.UnitTests/DataConverter.UnitTests.csproj": {}
+  },
+  "projects": {
+    "/Users/vishalthakur/Projects/NetCoreProjects/UnitTestCheck/DataConverter.Contracts/DataConverter.Contracts.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/vishalthakur/Projects/NetCoreProjects/UnitTestCheck/DataConverter.Contracts/DataConverter.Contracts.csproj",
+        "projectName": "DataConverter.Contracts",
+        "projectPath": "/Users/vishalthakur/Projects/NetCoreProjects/UnitTestCheck/DataConverter.Contracts/DataConverter.Contracts.csproj",
+        "packagesPath": "/Users/vishalthakur/.nuget/packages/",
+        "outputPath": "/Users/vishalthakur/Projects/NetCoreProjects/UnitTestCheck/DataConverter.Contracts/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/vishalthakur/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.300/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/vishalthakur/Projects/NetCoreProjects/UnitTestCheck/DataConverter.Domain/DataConverter.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/vishalthakur/Projects/NetCoreProjects/UnitTestCheck/DataConverter.Domain/DataConverter.Domain.csproj",
+        "projectName": "DataConverter.Domain",
+        "projectPath": "/Users/vishalthakur/Projects/NetCoreProjects/UnitTestCheck/DataConverter.Domain/DataConverter.Domain.csproj",
+        "packagesPath": "/Users/vishalthakur/.nuget/packages/",
+        "outputPath": "/Users/vishalthakur/Projects/NetCoreProjects/UnitTestCheck/DataConverter.Domain/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/vishalthakur/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.6, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.6, )"
+            },
+            "Microsoft.EntityFrameworkCore.Relational": {
+              "target": "Package",
+              "version": "[5.0.6, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[5.0.6, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.6, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.300/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/vishalthakur/Projects/NetCoreProjects/UnitTestCheck/DataConverter.Persistence/DataConverter.Persistence.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/vishalthakur/Projects/NetCoreProjects/UnitTestCheck/DataConverter.Persistence/DataConverter.Persistence.csproj",
+        "projectName": "DataConverter.Persistence",
+        "projectPath": "/Users/vishalthakur/Projects/NetCoreProjects/UnitTestCheck/DataConverter.Persistence/DataConverter.Persistence.csproj",
+        "packagesPath": "/Users/vishalthakur/.nuget/packages/",
+        "outputPath": "/Users/vishalthakur/Projects/NetCoreProjects/UnitTestCheck/DataConverter.Persistence/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/vishalthakur/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "/Users/vishalthakur/Projects/NetCoreProjects/UnitTestCheck/DataConverter.Domain/DataConverter.Domain.csproj": {
+                "projectPath": "/Users/vishalthakur/Projects/NetCoreProjects/UnitTestCheck/DataConverter.Domain/DataConverter.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.6, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.6, )"
+            },
+            "Microsoft.EntityFrameworkCore.Relational": {
+              "target": "Package",
+              "version": "[5.0.6, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[5.0.6, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.6, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.300/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/vishalthakur/Projects/NetCoreProjects/UnitTestCheck/DataConverter.Services/DataConverter.Services.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/vishalthakur/Projects/NetCoreProjects/UnitTestCheck/DataConverter.Services/DataConverter.Services.csproj",
+        "projectName": "DataConverter.Services",
+        "projectPath": "/Users/vishalthakur/Projects/NetCoreProjects/UnitTestCheck/DataConverter.Services/DataConverter.Services.csproj",
+        "packagesPath": "/Users/vishalthakur/.nuget/packages/",
+        "outputPath": "/Users/vishalthakur/Projects/NetCoreProjects/UnitTestCheck/DataConverter.Services/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/vishalthakur/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "/Users/vishalthakur/Projects/NetCoreProjects/UnitTestCheck/DataConverter.Contracts/DataConverter.Contracts.csproj": {
+                "projectPath": "/Users/vishalthakur/Projects/NetCoreProjects/UnitTestCheck/DataConverter.Contracts/DataConverter.Contracts.csproj"
+              },
+              "/Users/vishalthakur/Projects/NetCoreProjects/UnitTestCheck/DataConverter.Domain/DataConverter.Domain.csproj": {
+                "projectPath": "/Users/vishalthakur/Projects/NetCoreProjects/UnitTestCheck/DataConverter.Domain/DataConverter.Domain.csproj"
+              },
+              "/Users/vishalthakur/Projects/NetCoreProjects/UnitTestCheck/DataConverter.Persistence/DataConverter.Persistence.csproj": {
+                "projectPath": "/Users/vishalthakur/Projects/NetCoreProjects/UnitTestCheck/DataConverter.Persistence/DataConverter.Persistence.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.6, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.6, )"
+            },
+            "Microsoft.EntityFrameworkCore.Relational": {
+              "target": "Package",
+              "version": "[5.0.6, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[5.0.6, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.6, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.300/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/vishalthakur/Projects/NetCoreProjects/UnitTestCheck/DataConverter.UnitTests/DataConverter.UnitTests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/vishalthakur/Projects/NetCoreProjects/UnitTestCheck/DataConverter.UnitTests/DataConverter.UnitTests.csproj",
+        "projectName": "DataConverter.UnitTests",
+        "projectPath": "/Users/vishalthakur/Projects/NetCoreProjects/UnitTestCheck/DataConverter.UnitTests/DataConverter.UnitTests.csproj",
+        "packagesPath": "/Users/vishalthakur/.nuget/packages/",
+        "outputPath": "/Users/vishalthakur/Projects/NetCoreProjects/UnitTestCheck/DataConverter.UnitTests/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/vishalthakur/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "/Users/vishalthakur/Projects/NetCoreProjects/UnitTestCheck/DataConverter.Domain/DataConverter.Domain.csproj": {
+                "projectPath": "/Users/vishalthakur/Projects/NetCoreProjects/UnitTestCheck/DataConverter.Domain/DataConverter.Domain.csproj"
+              },
+              "/Users/vishalthakur/Projects/NetCoreProjects/UnitTestCheck/DataConverter.Persistence/DataConverter.Persistence.csproj": {
+                "projectPath": "/Users/vishalthakur/Projects/NetCoreProjects/UnitTestCheck/DataConverter.Persistence/DataConverter.Persistence.csproj"
+              },
+              "/Users/vishalthakur/Projects/NetCoreProjects/UnitTestCheck/DataConverter.Services/DataConverter.Services.csproj": {
+                "projectPath": "/Users/vishalthakur/Projects/NetCoreProjects/UnitTestCheck/DataConverter.Services/DataConverter.Services.csproj"
+              },
+              "/Users/vishalthakur/Projects/NetCoreProjects/UnitTestCheck/DataConverter/DataConverter.csproj": {
+                "projectPath": "/Users/vishalthakur/Projects/NetCoreProjects/UnitTestCheck/DataConverter/DataConverter.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Autofac.Extras.Moq.Xunit": {
+              "target": "Package",
+              "version": "[1.0.0, )"
+            },
+            "FluentAssertions": {
+              "target": "Package",
+              "version": "[5.10.3, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.6, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.6, )"
+            },
+            "Microsoft.EntityFrameworkCore.Relational": {
+              "target": "Package",
+              "version": "[5.0.6, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[5.0.6, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.6, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[16.10.0, )"
+            },
+            "xunit": {
+              "target": "Package",
+              "version": "[2.4.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.300/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/vishalthakur/Projects/NetCoreProjects/UnitTestCheck/DataConverter/DataConverter.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/vishalthakur/Projects/NetCoreProjects/UnitTestCheck/DataConverter/DataConverter.csproj",
+        "projectName": "DataConverter",
+        "projectPath": "/Users/vishalthakur/Projects/NetCoreProjects/UnitTestCheck/DataConverter/DataConverter.csproj",
+        "packagesPath": "/Users/vishalthakur/.nuget/packages/",
+        "outputPath": "/Users/vishalthakur/Projects/NetCoreProjects/UnitTestCheck/DataConverter/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/vishalthakur/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "/Users/vishalthakur/Projects/NetCoreProjects/UnitTestCheck/DataConverter.Contracts/DataConverter.Contracts.csproj": {
+                "projectPath": "/Users/vishalthakur/Projects/NetCoreProjects/UnitTestCheck/DataConverter.Contracts/DataConverter.Contracts.csproj"
+              },
+              "/Users/vishalthakur/Projects/NetCoreProjects/UnitTestCheck/DataConverter.Domain/DataConverter.Domain.csproj": {
+                "projectPath": "/Users/vishalthakur/Projects/NetCoreProjects/UnitTestCheck/DataConverter.Domain/DataConverter.Domain.csproj"
+              },
+              "/Users/vishalthakur/Projects/NetCoreProjects/UnitTestCheck/DataConverter.Persistence/DataConverter.Persistence.csproj": {
+                "projectPath": "/Users/vishalthakur/Projects/NetCoreProjects/UnitTestCheck/DataConverter.Persistence/DataConverter.Persistence.csproj"
+              },
+              "/Users/vishalthakur/Projects/NetCoreProjects/UnitTestCheck/DataConverter.Services/DataConverter.Services.csproj": {
+                "projectPath": "/Users/vishalthakur/Projects/NetCoreProjects/UnitTestCheck/DataConverter.Services/DataConverter.Services.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Autofac": {
+              "target": "Package",
+              "version": "[6.2.0, )"
+            },
+            "Autofac.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[7.1.0, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.6, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.6, )"
+            },
+            "Microsoft.EntityFrameworkCore.InMemory": {
+              "target": "Package",
+              "version": "[5.0.6, )"
+            },
+            "Microsoft.EntityFrameworkCore.Relational": {
+              "target": "Package",
+              "version": "[5.0.6, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[5.0.6, )"
+            },
+            "Microsoft.EntityFrameworkCore.Sqlite": {
+              "target": "Package",
+              "version": "[5.0.6, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.6, )"
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[5.0.2, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[5.6.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.300/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

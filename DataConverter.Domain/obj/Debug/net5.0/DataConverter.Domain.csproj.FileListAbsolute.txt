@@ -1,0 +1,15 @@
+/Users/vishalthakur/Projects/NetCoreProjects/UnitTestCheck/DataConverter.Domain/bin/Debug/net5.0/DataConverter.Domain.deps.json
+/Users/vishalthakur/Projects/NetCoreProjects/UnitTestCheck/DataConverter.Domain/bin/Debug/net5.0/DataConverter.Domain.runtimeconfig.json
+/Users/vishalthakur/Projects/NetCoreProjects/UnitTestCheck/DataConverter.Domain/bin/Debug/net5.0/DataConverter.Domain.runtimeconfig.dev.json
+/Users/vishalthakur/Projects/NetCoreProjects/UnitTestCheck/DataConverter.Domain/bin/Debug/net5.0/DataConverter.Domain.dll
+/Users/vishalthakur/Projects/NetCoreProjects/UnitTestCheck/DataConverter.Domain/bin/Debug/net5.0/ref/DataConverter.Domain.dll
+/Users/vishalthakur/Projects/NetCoreProjects/UnitTestCheck/DataConverter.Domain/bin/Debug/net5.0/DataConverter.Domain.pdb
+/Users/vishalthakur/Projects/NetCoreProjects/UnitTestCheck/DataConverter.Domain/obj/Debug/net5.0/DataConverter.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vishalthakur/Projects/NetCoreProjects/UnitTestCheck/DataConverter.Domain/obj/Debug/net5.0/DataConverter.Domain.AssemblyInfoInputs.cache
+/Users/vishalthakur/Projects/NetCoreProjects/UnitTestCheck/DataConverter.Domain/obj/Debug/net5.0/DataConverter.Domain.AssemblyInfo.cs
+/Users/vishalthakur/Projects/NetCoreProjects/UnitTestCheck/DataConverter.Domain/obj/Debug/net5.0/DataConverter.Domain.csproj.CoreCompileInputs.cache
+/Users/vishalthakur/Projects/NetCoreProjects/UnitTestCheck/DataConverter.Domain/obj/Debug/net5.0/DataConverter.Domain.dll
+/Users/vishalthakur/Projects/NetCoreProjects/UnitTestCheck/DataConverter.Domain/obj/Debug/net5.0/ref/DataConverter.Domain.dll
+/Users/vishalthakur/Projects/NetCoreProjects/UnitTestCheck/DataConverter.Domain/obj/Debug/net5.0/DataConverter.Domain.pdb
+/Users/vishalthakur/Projects/NetCoreProjects/UnitTestCheck/DataConverter.Domain/obj/Debug/net5.0/DataConverter.Domain.genruntimeconfig.cache
+/Users/vishalthakur/Projects/NetCoreProjects/UnitTestCheck/DataConverter.Domain/obj/Debug/net5.0/DataConverter.Domain.csproj.AssemblyReference.cache

@@ -1,0 +1,38 @@
+﻿<Properties StartupConfiguration="{6ABD88B0-D292-44C0-8E66-5BEE82E5B07F}|Default">
+  <MonoDevelop.Ide.ItemProperties.DataConverter PreferredExecutionTarget="/Applications/Safari.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="DataConverter/Setup/Database/DbContextSetup.cs">
+    <Files>
+      <File FileName="DataConverter.Domain/Entities/Aircraft.cs" Line="1" Column="1" />
+      <File FileName="DataConverter/Controllers/ConverterController.cs" Line="8" Column="36" />
+      <File FileName="DataConverter/Startup.cs" Line="31" Column="1" />
+      <File FileName="DataConverter/Program.cs" Line="49" Column="2" />
+      <File FileName="DataConverter/Setup/Database/DbContextSetup.cs" Line="55" Column="6" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="UnitTestCheck" expanded="True">
+            <Node name="DataConverter" expanded="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="Setup" expanded="True">
+                <Node name="Database" expanded="True">
+                  <Node name="DbContextSetup.cs" selected="True" />
+                </Node>
+              </Node>
+            </Node>
+            <Node name="DataConverter.Persistence" expanded="True">
+              <Node name="Migrations" expanded="True" />
+            </Node>
+            <Node name="DataConverter.Services" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
